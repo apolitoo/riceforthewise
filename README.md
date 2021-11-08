@@ -24,7 +24,7 @@ i'll try to add my own screenshots next to the originals as i use the dotfiles m
 - **OS**
 	- *[manjaro xfce](https://manjaro.org/downloads/official/xfce/)*
 
-- **🪟 window manager 🪟** ~ *a lil' bit redundant, but:* 
+- **:house: window manager :house:** ~ *a lil' bit redundant, but:* 
 	- *[openbox](http://openbox.org/wiki/Main_Page)*
 	- *[bspwm](https://github.com/baskerville/bspwm)*
 	- *[i-3 gaps](https://github.com/Airblader/i3)*
