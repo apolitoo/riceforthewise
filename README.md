@@ -10,13 +10,13 @@ i'll try to add my own screenshots next to the originals as i use the dotfiles m
 
 ---
 ### ｡ﾟ•┈୨♡୧┈•ﾟ｡ index ｡ﾟ•┈୨♡୧┈•ﾟ｡
-* ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚ **BSPWM**
+* ଘ(੭*ˊᵕˋ)੭* ੈ♡‧₊˚ [**BSPWM**](https://github.com/apolitoo/riceforthewise/blob/main/bspwm.md)
 
-* **XMONAD** ₍˄·͈༝·͈˄*₎◞ ̑̑ 
+* [**XMONAD**](https://github.com/apolitoo/riceforthewise/blob/main/xmonad.md) ₍˄·͈༝·͈˄*₎◞ ̑̑ 
 
-* (꜆꜄ ˃ ³ ˂)꜆꜄꜆  **I-3**
+* (꜆꜄ ˃ ³ ˂)꜆꜄꜆  [**I-3**](https://github.com/apolitoo/riceforthewise/blob/main/i3.md)
  
-* **OPENBOX** ༅͙̥̇⁺೨*˚·⸜(⁃͈ᴗ•͈)⸝
+* [**OPENBOX**](https://github.com/apolitoo/riceforthewise/blob/main/openbox.md) ༅͙̥̇⁺೨*˚·⸜(⁃͈ᴗ•͈)⸝
 ---
 
 ### ｡ﾟ•┈୨♡୧┈•ﾟ｡ softwares  ｡ﾟ•┈୨♡୧┈•ﾟ｡ 
