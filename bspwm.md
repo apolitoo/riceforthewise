@@ -34,3 +34,9 @@ i can feel the anxiety leaving my bones!
 ![so calming!!](https://github.com/apolitoo/riceforthewise/blob/main/screeshots/bonsai.png)
 
 
+## [Dotfiles](https://github.com/rajshekhar26/dotfiles "dotfiles") by [Rajshekhar](https://github.com/rajshekhar26 "their profile")
+
+colorful yet dark enough. isn't it wonderful?
+
+![she's like a rainbow](https://github.com/apolitoo/riceforthewise/blob/main/screeshots/color.png)
+
