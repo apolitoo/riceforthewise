@@ -29,6 +29,8 @@ i'll try to add my own screenshots next to the originals as i use the dotfiles m
 * (꜆꜄ ˃ ³ ˂)꜆꜄꜆  [**I-3**](https://github.com/apolitoo/riceforthewise/blob/main/i3.md)
  
 * [**OPENBOX**](https://github.com/apolitoo/riceforthewise/blob/main/openbox.md) ༅͙̥̇⁺೨*˚·⸜(⁃͈ᴗ•͈)⸝
+* (❁ᴗ͈ˬᴗ͈) [**XFCE**](https://github.com/apolitoo/riceforthewise/blob/main/xfce.md)
+* [**HERBSTLUFTWM**](https://github.com/apolitoo/riceforthewise/blob/main/herbstluftwm.md) (ꈍᴗꈍ)♡ 
 ---
 <kbd> ｡ﾟ•┈୨♡୧┈•ﾟ｡</kbd>
 ## softwares
@@ -46,12 +48,30 @@ i'll try to add my own screenshots next to the originals as i use the dotfiles m
   <summary> <b>:house: window manager :house:</b> ~ <i>a lil' bit redundant, but</i>:
  </summary>
   
-- *[openbox](http://openbox.org/wiki/Main_Page)*
+
 - *[bspwm](https://github.com/baskerville/bspwm)*
+- *[herbstluftwm](https://herbstluftwm.org/)*
 - *[i-3 gaps](https://github.com/Airblader/i3)*
+- *[openbox](http://openbox.org/wiki/Main_Page)*
+- *[xfce](https://www.xfce.org/)*
 - *[xmonad](https://xmonad.org/)*
 </details>
   
+<details>
+  <summary> <b>🗝️ login manager 🗝️</b> </summary>
+  
+
+- *[light-dm](https://github.com/canonical/lightdm)*
+- *[sddm](https://github.com/sddm/sddm)*
+</details>
+
+<details>
+  <summary> <b>🔒 lockscreen 🔒</b> </summary>
+  
+
+- *[betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)*
+- *[i3lock-color](https://github.com/Raymo111/i3lock-color)*
+</details>
   
 <details>
  <summary> <b>🐚 shell 🐚</b> </summary>
