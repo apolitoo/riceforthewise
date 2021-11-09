@@ -40,3 +40,6 @@ colorful yet dark enough. isn't it wonderful?
 
 ![she's like a rainbow](https://github.com/apolitoo/riceforthewise/blob/main/screeshots/color.png)
 
+## [Dotfiles](https://github.com/rayes0/dotfiles) by [Rayes0](https://github.com/rayes0/ "their profile")
+such dark wonder could not be left behind.
+rayesbspwm.png
