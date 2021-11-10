@@ -41,7 +41,7 @@ colorful yet dark enough. isn't it wonderful?
 
 ## [Dotfiles](https://github.com/rayes0/dotfiles) by [Rayes0](https://github.com/rayes0/ "their profile")
 such dark wonder could not be left behind.
-rayesbspwm.png
+![wonder dot](https://github.com/apolitoo/riceforthewise/blob/main/screeshots/rayesbspwm.png)
 
 ## [Serenade](https://github.com/b4skyx/dotfiles) by [b4skyx](https://github.com/b4skyx "their profile")
 i so love this color scheme. believe me, if your eyes are tired, give it a try!!
