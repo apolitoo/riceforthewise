@@ -3,7 +3,7 @@
 ## [mf-dots](https://github.com/obliviousofcraps/mf-dots "mf-dots") by [obliviousofcraps](https://github.com/obliviousofcraps "their profile")
 
 literally this was my first dotfile install when i changed to arch from windows. just love it: familiar enough for a newbie, yet also flowing with practicallity and beauty
-![my first lol](https://github.com/apolitoo/riceforthewise/blob/main/screeshots/obliviousofcraps.png
+![my first lol](https://github.com/apolitoo/riceforthewise/blob/main/screeshots/obliviousofcraps.png)
 
 ## [Joyful Desktop](https://github.com/owl4ce/dotfiles "sakura saber") by [owl4ce](https://github.com/owl4ce "their profile")
 
